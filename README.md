@@ -1,59 +1,208 @@
-# Rajan Kumar — Portfolio Website
+# 🚀 Rajan Kumar – Personal Portfolio Website
 
-A responsive, animated personal portfolio built with pure HTML, CSS, and JavaScript.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20Source-❤-red?style=for-the-badge">
+</p>
 
-## 📁 Folder Structure
+---
 
-```
-rajan-portfolio/
-├── index.html          ← Main portfolio page
-├── css/
-│   └── style.css       ← All styles (dark techy theme)
-├── js/
-│   └── main.js         ← Animations, cursor, canvas, typewriter
-├── assets/
-│   ├── rajan_image.png          ← Profile photo
-│   └── Rajan_Kumar_Resume.pdf   ← Downloadable resume
-└── README.md
-```
+## 📖 Overview
 
-## 🚀 How to Open
+A modern, fully responsive, and interactive personal portfolio website developed using **HTML5, CSS3, and Vanilla JavaScript**. The portfolio showcases my technical skills, projects, certifications, education, and achievements with engaging animations and a clean, professional user interface.
 
-### In VS Code
-1. Open VS Code
-2. `File → Open Folder` → select `rajan-portfolio`
-3. Right-click `index.html` → **Open with Live Server** (recommended)
-   - Install the **Live Server** extension by Ritwick Dey if not already installed
-4. OR just open `index.html` directly in your browser
+Designed with a dark futuristic theme, the website delivers a smooth user experience across desktop, tablet, and mobile devices while highlighting my journey as a **Computer Science & Engineering (Artificial Intelligence)** student.
 
-### In Browser
-- Double-click `index.html` to open directly
+---
 
 ## ✨ Features
 
-- **Particle Network Canvas** — animated floating nodes with connections
-- **Custom Cursor** — smooth trailing cursor effect
-- **Typewriter Effect** — rotating role titles in hero section
-- **Glitch Animation** — hover over the name for a glitch effect
-- **Scroll Animations** — elements animate in as you scroll
-- **Floating Badges** — animated badges around profile photo
-- **Spinning Orbit Rings** — around the profile picture
-- **Resume Download** — click "Download CV" anywhere to download the PDF
-- **Mobile Responsive** — hamburger menu, fully responsive layout
-- **Active Nav Tracking** — nav links highlight based on scroll position
+### 🎨 Modern User Interface
+- Clean and responsive design
+- Dark futuristic theme
+- Smooth scrolling experience
+- Mobile-first layout
 
-## 🎨 Tech Stack
+### ⚡ Interactive Animations
+- Particle Network Background
+- Custom Animated Cursor
+- Typewriter Text Animation
+- Glitch Hover Effect
+- Scroll Reveal Animations
+- Floating Skill Badges
+- Rotating Orbit Rings
 
-- HTML5, CSS3 (CSS Variables, Grid, Flexbox)
-- Vanilla JavaScript (Canvas API, IntersectionObserver)
-- Google Fonts: Syne + Space Mono + DM Sans
+### 👨‍💻 Portfolio Sections
+- Hero Section
+- About Me
+- Technical Skills
+- Featured Projects
+- Certifications
+- Education
+- Contact Information
 
-## 📝 Customization
+### 📄 Resume Integration
+- One-click Resume Download
+- Professional Resume Access
 
-- Edit `index.html` to update content
-- Edit `css/style.css` — change `--accent` color at top to retheme
-- Replace `assets/rajan_image.png` with a new photo
-- Replace `assets/Rajan_Kumar_Resume.pdf` with updated resume
+### 📱 Responsive Design
+- Mobile Navigation Menu
+- Optimized for Desktop, Tablet & Mobile
+- Cross-browser Compatibility
 
 ---
-Made with ❤️ for Rajan Kumar
+
+# 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+### CSS Features
+- CSS Variables
+- Flexbox
+- CSS Grid
+- Responsive Media Queries
+- Advanced Animations
+
+### JavaScript Features
+- Canvas API
+- Intersection Observer API
+- DOM Manipulation
+- Event Handling
+- Typewriter Animation
+
+### Fonts
+- Syne
+- Space Mono
+- DM Sans
+
+---
+
+# 📂 Project Structure
+
+```text
+rajan-portfolio/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── assets/
+│   ├── rajan_image.png
+│   └── Rajan_Kumar_Resume.pdf
+└── README.md
+```
+
+---
+
+# 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/RAJANKUMAR033/rajan-portfolio.git
+```
+
+Navigate to the project folder
+
+```bash
+cd rajan-portfolio
+```
+
+### Run using VS Code
+
+1. Open the project in Visual Studio Code.
+2. Install the **Live Server** extension (if not already installed).
+3. Right-click on `index.html`.
+4. Select **Open with Live Server**.
+
+### Or
+
+Simply open the `index.html` file in your preferred web browser.
+
+---
+
+# 🌟 Highlights
+
+- Fully Responsive Portfolio Website
+- Modern UI/UX Design
+- Animated Hero Section
+- Interactive Background Effects
+- Smooth Page Transitions
+- Resume Download Functionality
+- Lightweight & Fast Performance
+- Pure HTML, CSS & JavaScript (No Framework)
+
+---
+
+# 📸 Screenshots
+
+> Add screenshots of your portfolio here.
+
+- Home Page
+- About Section
+- Skills Section
+- Projects Section
+- Contact Section
+
+---
+
+# 🎯 Learning Outcomes
+
+This project demonstrates practical knowledge of:
+
+- Responsive Web Design
+- Modern CSS Techniques
+- JavaScript DOM Manipulation
+- Canvas API
+- UI/UX Design Principles
+- Frontend Performance Optimization
+- Cross-browser Compatibility
+- Interactive Web Animations
+
+---
+
+# 🔮 Future Enhancements
+
+- Dark/Light Theme Toggle
+- Blog Section
+- Project Filtering
+- Contact Form with Email Integration
+- Visitor Analytics
+- Multi-language Support
+- Progressive Web App (PWA)
+- Performance Optimization
+
+---
+
+# 👨‍💻 Author
+
+**Rajan Kumar**
+
+🎓 B.Tech – Computer Science & Engineering (Artificial Intelligence)
+
+🏫 Government Engineering College, Munger
+
+📧 razrajan46@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/rajankumar033
+
+💻 GitHub: https://github.com/RAJANKUMAR033
+
+---
+
+# ⭐ Support
+
+If you like this project, consider giving it a **Star ⭐** on GitHub.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
